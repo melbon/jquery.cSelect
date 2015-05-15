@@ -17,7 +17,7 @@ bower install cselect
 $(":input").cSelect();
 ```
 ## Demo
-<a href="http://codepen.io/mel/full/XJYyxW" target="_blank">codepen.io/mel/full/XJYyxW</a>
+<a href="http://codepen.io/mel/full/NqrKWG" target="_blank">codepen.io/mel/full/NqrKWG</a>
 ## License
 @author Mario Vidov <br />
 @url <a href="http://vidov.it" target="_blank">www.vidov.it</a> <br />
