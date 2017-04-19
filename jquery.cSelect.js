@@ -28,7 +28,7 @@ $.fn.cSelect = function(options) {
         });
 
         $(container).parent().find("select").on("change", function(){
-            $(this).siblings('div').text($(this).children('option:selected').text());
+            $(this).siblings('div').text($(this).find('option:selected').text());
         });
     });
 }
